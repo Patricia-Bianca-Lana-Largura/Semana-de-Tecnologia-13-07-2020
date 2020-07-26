@@ -4,8 +4,10 @@
 
 ## Assuntos Abordados:
 
+<img src="https://github.com/Patricia-Bianca-Lana-Largura/Semana-de-Tecnologia-13-07-2020/blob/master/5.%20Imagens/info-908889_640.png" width="200">
+
 - Formatos de Dados;
-- Limpeza e Tratamento de Dados;
+- Limpeza e Tratamento de Dados;   
 - Processo de ETL;
 - Plotagem e visualização;
 - Mineração de Dados – CRISP-DM.
