@@ -39,4 +39,75 @@ Tem a intenção de criar normativas que protejam os dados das pessoas físicas 
 - Se um dado for anonimizado, então a LGPD não se aplicará a ele;
 - Não é uma exigência da lei que dados sejam anonimizados.
 
+## Pseudonimização:
+- Eu tenho os dados de alguém anonimizados em um banco de dados e a presença de uma ID (identificador) que guarda as demais informações não anonimizadas em um outro banco de dados;
+- Nesse tipo de situação a LGPD se aplica, porque alguém ainda pode utilizar a ID para chegar até a pessoa;
+- Segregar o sistema e dar acesso as pessoas que só precisam de dados anonimizados (básico), sem a necessidade de dar acesso a todos a respeito dos dados pessoais que chegam ao titular;
+- Vantajoso por aumentar o nível de segurança e manter a privacidade.
 
+## Qual o Alcance da LGPD:
+- Qualquer operação de tratamento de dados pessoais em território nacional;
+- Envolve Pessoa física de direito público ou privado;
+- Em caso de transnacionalidade, adequações são necessárias. Exemplo: GDPR;
+
+**Observação: se uma organização do exterior ter posse de dados de pessoas brasileiras, a LGPD se aplica sobre essa empresa mesmo que ela não esteja dentro do país.**
+
+A **LGPD** se aplica a qualquer operação de tratamento realizada por pessoa natural ou pessoa jurídica de direito público ou privado, independente do meio, do país de sua sede ou do país de onde estejam localizados os dados, desde que:
+
+- A operação de tratamento seja realizada no território nacional;
+- Oferecem bens ou serviços ao mercado consumidor brasileiro;
+- Os dados pessoais objeto do tratamento tenham sido coletados no território nacional.
+
+## Exceções (sem consentimento do titular):
+- Fim particular (não econômico);
+- Proteção à vida;
+- Fins jornalísticos ou artísticos;
+- Fins acadêmicos;
+- Defesa e investigação.
+
+## Quais ramos são impactados com a LGPD?
+
+- Marketing;
+- Serviços;
+- Segurança;
+- Aeroportos;
+- Hotelaria;
+- Advocacia;
+- Indústria;
+- Varejo;
+- Data Centers e Cloud;
+- Cartões;
+- Aplicativos;
+- Jogos;
+- Saúde;
+- Bancos;
+- Imobiliárias;
+- Corretoras;
+- Seguradoras;
+- Consultorias;
+- Mídias;
+- Educação.
+
+## Exemplos de situações em que a LGPD se aplica:
+
+- Relações trabalhistas;
+- Relações consumerista (inclusive quanto aos negócios offline) - venda ao consumidor;
+- Negócios B2B que utilizam dados pessoais de parceiros/representantes empresariais;
+- Campanhas e envio de propaganda por redes sociais;
+- Aplicação de tecnologias da informação para a adequação da segurança digital.
+
+>Para **efeitos práticos**, o âmbito de **aplicação** da LGPD é extremamente abrangente, contemplando a maior parte de projetos e atividades do dia a dia empresarial.
+
+## Partes envolvidas:
+
+*Titular:* pessoa natural (física) a quem se referem os dados que são objetos de tratamento.
+Os dados são dela!
+
+*Controlador:* pessoa natural ou jurídica, de direitos públicos ou privados. Compatem as **decisões** referentes aos tratamentos de dados pessoais.
+
+*Operador:* pessoa natural ou jurídica, de direitos públicos ou privados. **Realiza o tratamento** de dados em nome do controlador.
+
+*ANPD:* Agência responsável pela regulação sobre a proteção de dados pessoais. Responsável por zelar, implementar e fiscalizar a LGPD.
+
+
+**A LGPD entrará em vigor em Maio de 2021.**
