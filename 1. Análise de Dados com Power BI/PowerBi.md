@@ -1,8 +1,8 @@
-# Análise de Dados com Power BI
+# :mag: Análise de Dados com Power BI
 
 #### Há 3 áreas principais que estão vinculadas à disciplina de Análise de Dados, são elas: Computação, Estatística e a Área de Negócios.
 
-## Assuntos Abordados:
+## :heavy_check_mark: Assuntos Abordados:
 
 <img src="https://github.com/Patricia-Bianca-Lana-Largura/Semana-de-Tecnologia-13-07-2020/blob/master/5.%20Imagens/info-908889_640.png" width="200">
 
@@ -12,7 +12,7 @@
 - Plotagem e visualização;
 - Mineração de Dados – CRISP-DM.
  
-## Objetivos da Análise de Dados:
+## :heavy_check_mark: Objetivos da Análise de Dados:
 
 A Descritiva e a Preditiva são as mais utilizadas no mercado e fazem parte do BI (Business Intelligence).
 
@@ -85,7 +85,7 @@ Power Query: https://www.microsoft.com/pt-BR/download/details.aspx?id=39379
 
 Power BI - Templates para inspiração: http://powerbiarte.com.br/
 
-## Livros mencionados:
+## :books: Livros mencionados:
 
 - Storytelling com Dados. Autor: Cole Nussbaumer Knaflic.
 - Python para análise de dados: Tratamento de dados com Pandas, NumPy e IPython. Autor: Wes McKinney
