@@ -34,7 +34,7 @@ arquivos LOG que também não são bem estruturados e que auxiliam a mostrar err
 
 **Desestruturados:** Arquivos binários que não são legíveis. Exemplos: arquivos de imagem, vídeo e áudio.
 
-## Limpeza e Tratamento de Dados:
+## :broom: Limpeza e Tratamento de Dados:
 
 **“Remoção” de Dados incorretos/incoerentes:** remoção de dados onde se tem certeza que não tem sentido. Normalmente são armazenados separadamente e depois feita uma análise para saber o porquê que são incoerentes.
 
@@ -52,7 +52,7 @@ arquivos LOG que também não são bem estruturados e que auxiliam a mostrar err
 
 **Processo ETL – Extract Transform Load:** Processo de extração, limpeza e transformação (lapidação). Existem ferramentas que ajudam nesse processo de extração, transformação e manipulação de dados. Exemplo: ferramenta Pentaho (Pentaho Data Integration - PDI).
 
-## Plotagem e Visualização:
+## :mag: Plotagem e Visualização:
 
 - Para o Analista compreender melhor os dados;
 - Para o Gestor tomar decisões.
